@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irdina 
-- 👀 I’m interested in C++, front end programming, object oriented programming & python.
-- 🌱 I’m currently learning C++ & Python
+- 👀 I’m interested in web development, front-end programming & React.
+- 🌱 I’m currently learning React. 
 - 💞️ I’m looking to collaborate on health & diet tracking app developing & any beginner level startup.
 - 📫 How to reach me: iirdina136@gmail.com
 
